@@ -9,3 +9,6 @@ Install [tcl/tk 8.5](https://www.tcl.tk/software/tcltk/8.5.html) (newer versions
     
 Enjoy!
 
+## Screen shot
+
+![len-simulator](media/demo.gif)
