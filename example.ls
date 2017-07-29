@@ -4,7 +4,7 @@
 
 LENSYSTEM
 VERSION 1.0
-VERTICAL 150 yellow
+VERTICAL 120 yellow
 OBJECT 225 225 red
-LEN 160 150 25 #0098c6 white white white
+LEN 160 120 25 #0098c6 white white white
 EOF
